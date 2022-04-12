@@ -1,0 +1,2 @@
+# npc_for_medicine
+使用nginx部署的基于torch的神经网络实现鼻咽癌图像AI医疗智能诊疗平台（含简单前端demo）
