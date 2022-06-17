@@ -1,0 +1,9 @@
+{
+    "data_dir": "/mnt/llz/media/npcMri/cls/npc/",
+    "csv_dir": "/mnt/llz/media/npcMri/cls/cfgs/dataInfo/",
+    "n_splits": 3,
+    "num_epochs": 10,
+    "fold": 0,
+    "resnet-layers": 10,
+    "lr": 0.001
+}
